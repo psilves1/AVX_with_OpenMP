@@ -1,1 +1,3 @@
 Switched over from a private repo in case anyone wanted to see my code
+
+This is an AVX program that takes advantage of OpenMP to decrease the runtime 
